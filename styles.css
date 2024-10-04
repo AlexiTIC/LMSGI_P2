@@ -1,0 +1,63 @@
+body {
+	background-color: #c5cedb;
+}
+
+header img {
+	float: left;
+	margin-right: 50px;
+}
+
+h1 {
+	text-align: center;
+	color: maroon;
+	font-weight: bold;
+}
+
+h2 {
+	font-weight: bold;
+	color: yellow;
+	text-align: center;
+}
+
+caption {
+	font-weight: bold;
+	color: yellow;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+	background-color: white;
+	margin: auto;
+}
+
+table th {
+	text-align: center;
+	background-color: green;
+}
+
+article p {
+	margin-bottom: 15px;
+	line-height: 1.6;
+	text-align: justify;
+}
+
+section {
+	margin: 20px;
+	background-color: #aab3bf;
+	padding: 10px;
+}
+
+section ul,
+section ol {
+	list-style-type: disc;
+	margin-left: 20px;
+}
+
+dl {
+	margin-left: 20px;
+}
+
+dt {
+	font-weight: bold;
+}
